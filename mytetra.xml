@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="1"/>
+ <content>
+  <node id="1" name="Rename me">
+   <recordtable>
+    <record dir="131055664256dw9t5sbj" crypt="0" url="www.opennet.ru" tags="awk sed bash sh" author="" id="13105566429jkjm54kms" ctime="20110713153042" name="Проверка" file="text.html"/>
+   </recordtable>
+  </node>
+  <node id="13105588123yxjkso3nj" name="Идеи">
+   <recordtable>
+    <record dir="1310558857qfp8yetbn7" crypt="0" url="http://iblog.net.ua/2010/11/18/kreativ-v-mire-vilok-i-lozhek-fotopodborka/#more-11736" tags="iblog" author="" id="131055885715zqy96bsb" ctime="20110713160737" name="Необычные вилки" file="text.html"/>
+    <record dir="1310558933ki6q069quq" crypt="0" url="http://iblog.net.ua/2010/11/23/sovremennoe-sportivnoe-oborudovaniya-dlya-zdorovya-dushi-i-tela/#more-11868" tags="iblog РЕАЛИЗАЦИЯ" author="" id="1310558933j0vyeo38tn" ctime="20110713160853" name="Современное спортивное оборудование" file="text.html"/>
+    <record dir="1310564575k7f9ptz5jd" crypt="0" url="http://iblog.net.ua/2009/02/04/udobnaya-sushilka-dlya-obuvi-i-perchatok-dry-guy/" tags="iblog" author="" id="1310564575hgubd5tq3m" ctime="20110713174255" name="Удобная сушилка для обуви и перчаток" file="text.html"/>
+    <record dir="1310564703nibwue230f" crypt="0" url="http://iblog.net.ua/2009/06/03/kak-otkryt-vxodnuyu-dver-bez-klyucha-otlichnoe-reshenie-dlya-doma-i-ofisa/" tags="iblog" author="" id="13105647039p01o5inh7" ctime="20110713174503" name="Как открыть входную дверь без ключа? Отличное решение для дома и офиса" file="text.html"/>
+   </recordtable>
+  </node>
+ </content>
+</root>
